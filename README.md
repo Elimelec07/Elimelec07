@@ -2,13 +2,10 @@
 
 
 <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
-[![LinkedIn Badge](https://img.shields.io/badge/-Elimelec-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/TU-USUARIO)
-[![Gmail Badge](https://img.shields.io/badge/-elimelecjoser@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:elimelecjoser@gmail.com)
-
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=ELIMELEC" alt="ELIMELEC" />
 </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MarikIshtar007" alt="MarikIshtar007" /> </p>
+
 
 Bienvenido a mi rincón en el mundo digital ⚡
 Hay 10 tipos de personas en el mundo: las que entienden binario y las que no 
