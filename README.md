@@ -2,8 +2,12 @@
 
 
 <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
+[![LinkedIn Badge](https://img.shields.io/badge/-Elimelec-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/TU-USUARIO)
+[![Gmail Badge](https://img.shields.io/badge/-elimelecjoser@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:elimelecjoser@gmail.com)
 
-[![Linkedin Badge](https://img.shields.io/badge/-haanyali-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/haany-ali)](https://www.linkedin.com/in/haany-ali) [![Gmail Badge](https://img.shields.io/badge/-asterp04@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:asterp04@gmail.com)](mailto:asterp04@gmail.com) [![Youtube Channel](https://img.shields.io/badge/-The%20Broke%20Coder-c14438?style=flat-square&logo=Youtube&link=https://www.youtube.com/channel/UCietjxpksncMdOUkycv5nqA)](https://www.youtube.com/channel/UCietjxpksncMdOUkycv5nqA)
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=ELIMELEC" alt="ELIMELEC" />
+</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MarikIshtar007" alt="MarikIshtar007" /> </p>
 
 Bienvenido a mi rincón en el mundo digital ⚡
