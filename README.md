@@ -7,7 +7,7 @@
 </p>
 
 
-Bienvenido a mi rincón en el mundo digital ⚡
+Bienvenido a mi rincón en el mundo digital
 Hay 10 tipos de personas en el mundo: las que entienden binario y las que no 
 
 ## :computer: Technologies I Love
@@ -39,14 +39,14 @@ struct WhoAmI {
  ```
  
 ## Current Works
-🔧 Laboratorios y proyectos con PIC16F887
-📘 Profundizando en Microprocesamiento
-⚡ Diseño y análisis de circuitos electrónicos
-🧠 Mejorando lógica y programación de bajo nivel
+Laboratorios y proyectos con PIC16F887
+Profundizando en Microprocesamiento
+Diseño y análisis de circuitos electrónicos
+Mejorando lógica y programación de bajo nivel
  
 ## Other Stuff
-🧩 Me gusta aprender haciendo (proyectos reales)
-💡 Interesado en automatización, control y robótica
-📂 Este GitHub documenta mi progreso como ingeniero
+Me gusta aprender haciendo (proyectos reales)
+Interesado en automatización, control y robótica
+Este GitHub documenta mi progreso como ingeniero
  -------
 [Credits: [MarikIshtar007](https://github.com/MarikIshtar007)](https://github-readme-stats.vercel.app/api?username=ELIMELEC07&show_icons=true)
