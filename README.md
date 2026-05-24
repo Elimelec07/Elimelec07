@@ -7,8 +7,8 @@
 </p>
 
 
-Bienvenido a mi rincón en el mundo digital
-Hay 10 tipos de personas en el mundo: las que entienden binario y las que no 
+Welcome to my corner in the digital world
+There are 10 types of people in the world: those who understand binary and those who don’t.
 
 ## :computer: Technologies I Love
 * Flutter
@@ -38,15 +38,15 @@ struct WhoAmI {
 };
  ```
  
-## Current Works
-Laboratorios y proyectos con PIC16F887
-Profundizando en Microprocesamiento
-Diseño y análisis de circuitos electrónicos
-Mejorando lógica y programación de bajo nivel
- 
+## Current Work
+Laboratories and projects with PIC16F887  
+Diving deeper into Microprocessing  
+Design and analysis of electronic circuits  
+Improving logic and low-level programming  
+
 ## Other Stuff
-Me gusta aprender haciendo (proyectos reales)
-Interesado en automatización, control y robótica
-Este GitHub documenta mi progreso como ingeniero
+I like learning by doing (real-world projects)  
+Interested in automation, control, and robotics  
+This GitHub documents my growth as an engineer  
  -------
 [Credits: [MarikIshtar007](https://github.com/MarikIshtar007)](https://github-readme-stats.vercel.app/api?username=ELIMELEC07&show_icons=true)
