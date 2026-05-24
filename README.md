@@ -50,10 +50,3 @@ struct WhoAmI {
 📂 Este GitHub documenta mi progreso como ingeniero
  -------
 [Credits: [MarikIshtar007](https://github.com/MarikIshtar007)](https://github-readme-stats.vercel.app/api?username=ELIMELEC07&show_icons=true)
-
-Nota final
-Si te gustó este README:
-
-Siéntete libre de personalizarlo aún más
-Agregar fotos de proyectos
-Diagramas, simulaciones, o código embebido
